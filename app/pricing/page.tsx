@@ -37,7 +37,7 @@ function CategoryGrid({
           <div className="cursor-pointer p-4 rounded-lg shadow-lg hover:shadow-xl transition-shadow bg-black flex flex-col items-center dark:bg-white">
             <Image
               alt={category.name}
-              className="w-32 h-32 shadow-lg hover:shadow-xl transition-shadow border-x-small border-y-small object-cover mb-4 rounded-md dark:border-black"
+              className="w-44 h-36 shadow-lg hover:shadow-xl transition-shadow border-x-small border-y-small object-cover mb-4 rounded-md dark:border-black"
               height={200}
               loading="lazy"
               src={category.image}
