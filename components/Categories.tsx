@@ -31,8 +31,8 @@ export default function Categories() {
               <Image
                 alt={category.name}
                 className="transition-transform duration-300 group-hover:scale-105"
-                layout="fill" // 🔥 Isso faz a imagem preencher o container corretamente
-                objectFit="cover" // 🔥 Mantém a proporção sem cortar errado
+                layout="fill"
+                objectFit="cover"
                 src={category.image}
               />
             </div>
