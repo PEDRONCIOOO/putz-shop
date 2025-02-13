@@ -7,6 +7,10 @@ export const WalletCategory = "/wallet-category.jpg";
 export const MountCategory = "/mount-category.jpg";
 export const CasesCategory = "/cases-category.jpg";
 
+export const GripAcessory = "/snapgripluxe.webp";
+export const WalletAccessory = "/wallet-acessory.jpg";
+export const CaseAccessory = "/case-acessory.jpg";
+
 export const GuyPhone = "/phoneguybold2.svg";
 
 export const ProductShowcase1 = "/gripcase-product1.jpg";
